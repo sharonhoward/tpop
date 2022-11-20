@@ -50,4 +50,5 @@ Suggested format: Brodie Waddell and Sharon Howard. (2022). *The Power
 of Petitioning in Early Modern England, 1573-1799, version 1.0*
 \[dataset\].
 
+[![DOI](https://zenodo.org/badge/524586789.svg)](https://zenodo.org/badge/latestdoi/524586789)
 
